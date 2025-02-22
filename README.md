@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🐧 Experienced Linux Administrator | Automation Enthusiast | Open-Source Advocate<br>
 🚀 Mastering Linux systems with expertise in security, performance tuning, and high availability.<br>
