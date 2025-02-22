@@ -13,9 +13,9 @@
 
 ☁️ Cloud & Containers: ☁️ AWS | 🐳 Docker | ☸️ Kubernetes <br>
 
-📊 Monitoring & Logging: 📡 Nagios | 📈 Grafana | 🔍 ELK Stack <br> | Zabbix
+📊 Monitoring & Logging: 📡 Nagios | 📈 Grafana | 🔍 ELK Stack | Zabbix <br> 
 
-🔧 Scripting & Programming: 🐍 Python | ☕ Java | 🐚 Shell Script | 🌐 PHP | 💎 Ruby | 🦪 Perl 
+🔧 Scripting & Programming: 🐍 Python | ☕ Java | 🐚 Shell Script | 🌐 PHP | 💎 Ruby | 🦪 Perl  <br>
 
 📡 Networking & Security: 🔐 Firewalls | 🔒 SSL/TLS | 🔍 Intrusion Detection <br>
 <br>
