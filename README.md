@@ -7,7 +7,7 @@
 - ⚡ Passionate about troubleshooting, scripting, and optimizing cloud and on-prem environments. <br>
 - 🌍 Always exploring new technologies to push the boundaries of system administration! <br> <br> <br> <br>
 
-# 🛠️ Technologies & Skills 
+### 🛠️ Technologies & Skills 
 
 💻 Operating Systems:  🐧 Linux (Debian, Ubuntu, CentOS) | 🏢 Windows Server <br>
 ⚙️ Automation & Configuration Management:  📜 Ansible | 🤖 Puppet | 📦 Terraform <br>
@@ -19,7 +19,7 @@
 📩 Let’s Connect! Always open to collaborating, learning, and solving new challenges. 🚀
 <br><br>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dsy000&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dsy000&layout=compact)
