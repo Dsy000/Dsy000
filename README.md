@@ -15,3 +15,9 @@
 📡 Networking & Security:  🔐 Firewalls | 🔒 SSL/TLS | 🔍 Intrusion Detection <br>
 <br><br>
 📩 Let’s Connect! Always open to collaborating, learning, and solving new challenges. 🚀
+<br><br>
+
+# 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dsy000&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dsy000&layout=compact)
