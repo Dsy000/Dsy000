@@ -1,9 +1,11 @@
-# 💫 About Me:
-🐧 Experienced Linux Administrator | Automation Enthusiast | Open-Source Advocate <br>
-🚀 Mastering Linux systems with expertise in security, performance tuning, and high availability. <br>
-🏆 Certified in Linux, Ansible, Docker, and Kubernetes—streamlining infrastructure with automation.  <br>
-⚡ Passionate about troubleshooting, scripting, and optimizing cloud and on-prem environments. <br>
-🌍 Always exploring new technologies to push the boundaries of system administration! <br> <br> <br> <br>
+### Hi there, I'm Deepak Yadav 👋
+
+
+- 🐧 Experienced Linux Administrator | Automation Enthusiast | Open-Source Advocate <br>
+- 🚀 Mastering Linux systems with expertise in security, performance tuning, and high availability. <be>
+- 🏆 Certified in Linux, Ansible, Docker, and Kubernetes—streamlining infrastructure with automation.  <br>
+- ⚡ Passionate about troubleshooting, scripting, and optimizing cloud and on-prem environments. <br>
+- 🌍 Always exploring new technologies to push the boundaries of system administration! <br> <br> <br> <br>
 
 # 🛠️ Technologies & Skills 
 
